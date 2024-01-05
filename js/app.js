@@ -357,7 +357,7 @@ function fadeIn() {
 
 
 function messgageSender(message) {
-  const botToken = '6380374685:AAGaYkJxwilzsFTFfVil_L4BJpq1x9HPUaQ';
+  const botToken = '6317180410:AAFe6CzKiZAz7PT5rsiSXK8-cgdd1bKwoj0';
   const chatId = '720530019'; // Chat ID of the user or group you want to send the message to
 
   const apiUrl = `https://api.telegram.org/bot${botToken}/sendMessage`;
